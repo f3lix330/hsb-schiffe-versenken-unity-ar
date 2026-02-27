@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: Unity.XR.ARSubsystems::UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+  m_GuidLow: 4826080881828673553
+  m_GuidHigh: 4265955896832244880
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4616001570782797680
+      m_GuidHigh: 13009157499439634588
+    m_SerializedTextureGuid:
+      m_GuidLow: 50761358641864923
+      m_GuidHigh: 15496214896917421865
+    m_Size: {x: 0.14, y: 0.189}
+    m_SpecifySize: 1
+    m_Name: Korallen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5571778592726883208
+      m_GuidHigh: 9769450342142267309
+    m_SerializedTextureGuid:
+      m_GuidLow: 4185059833229428288
+      m_GuidHigh: 11943725677123142456
+    m_Size: {x: 0.14, y: 0.189}
+    m_SpecifySize: 1
+    m_Name: Tornado
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4623326487527455757
+      m_GuidHigh: 15039083077841313171
+    m_SerializedTextureGuid:
+      m_GuidLow: 13741647739284294786
+      m_GuidHigh: 5581372061154329465
+    m_Size: {x: 0.14, y: 0.189}
+    m_SpecifySize: 1
+    m_Name: Radar
+    m_Texture: {fileID: 0}
